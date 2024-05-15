@@ -1,0 +1,15 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "utility to compare objects",
+  "main": "bin/gendiff.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Klimenty",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
